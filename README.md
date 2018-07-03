@@ -5,9 +5,10 @@ A list of my personal favorite VS Code extensions
 
 This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use.
 
+## [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
-https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
+Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text does.
 
-https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
+## [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
-https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
